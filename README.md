@@ -50,4 +50,8 @@ This shows that paid users like to review on any occasion but unpaid users norma
 
 Looking further we can see that for paid users only 1.06% has given 1 star rating but in unpaid users around 25.46% have given 1 star rating further supporting this statement.
 
+1starReviewsImage
+![1starReviewsImage](Resources/1starReviewsImage.png)
+
 One key point need for further analysis is that the data set of paid users are small and hence collection of further data can help in confirming for future analysis.
+
